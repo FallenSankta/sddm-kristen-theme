@@ -1,8 +1,8 @@
 [SddmGreeterTheme]
-Name=sddm-astronaut-theme
-Description=sddm-astronaut-theme
-Author=keyitdev
-Website=https://github.com/Keyitdev/sddm-astronaut-theme
+Name=sddm-kristen-theme
+Description=sddm-kristen-theme
+Author=FallenSankta
+Website=https://github.com/FallenSankta/sddm-kristen-theme
 License=GPL-3.0-or-later
 Type=sddm-theme
 Version=1.4
@@ -10,6 +10,6 @@ ConfigFile=Themes/kristen.conf
 Screenshot=Previews/astronaut.png
 MainScript=Main.qml
 TranslationsDirectory=translations
-Theme-Id=sddm-astronaut-theme
+Theme-Id=sddm-kristen-theme
 Theme-API=2.0
 QtVersion=6
