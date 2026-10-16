@@ -1,5 +1,6 @@
 # sddm-kristen-theme
 This is a simple fork of [Keyitdev's sddm theme](https://github.com/Keyitdev/sddm-astronaut-theme)
+Simply used for personal sht, idc if anyone decides to use ts or not
 ## Manual Installation
 
 1. Install **dependencies**
