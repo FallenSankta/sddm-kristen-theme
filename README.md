@@ -1,5 +1,5 @@
 # sddm-kristen-theme
-
+This is a simple fork of [Keyitdev's sddm theme](https://github.com/Keyitdev/sddm-astronaut-theme)
 ## Manual Installation
 
 1. Install **dependencies**
@@ -27,7 +27,7 @@ sudo git clone https://github.com/FallenSankta/sddm-kristen-theme
 4. Edit `/etc/sddm.conf` (or just set it using KDE's settings)
 ```sh
 echo "[Theme]
-Current=sddm-astronaut-theme" | sudo tee /etc/sddm.conf
+Current=sddm-kristen-theme" | sudo tee /etc/sddm.conf
 ```
 
 ## Selecting a theme
@@ -49,9 +49,5 @@ sddm-greeter-qt6 --test-mode --theme /usr/share/sddm/themes/sddm-kristen-theme/
 > Note that depending on the system configuration, the preview may differ slightly from the actual login screen.
 
 ## Sources
-
-Initially the theme was independed fork of [MarianArlt's theme](https://github.com/MarianArlt/sddm-sugar-dark) but now the project has come a long way and started to significantly deviate from the original.
-Many of the wallpapers and fonts used in this project are very popular and copied from one user to another, so I don't know who the original creator is. 
-I also redesigned many of them, but here are links to some of the orginal artists who created these wonderful wallpapers:
 
 - Kristen: [wallpaper](https://www.youtube.com/watch?v=f-0exTFd404) (taken from the official EP)
